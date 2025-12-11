@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.bg-pat-white {
+    background-image: url(/images/bg/pattern-white.svg);
+    background-position: 50%
+}
