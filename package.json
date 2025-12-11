@@ -6,6 +6,7 @@
     "license": "ISC",
     "devDependencies": {
         "@devdojo/static": "^1.0.0",
-        "@tailwindcss/typography": "^0.5.10"
+        "@tailwindcss/typography": "^0.5.10",
+        "wrangler": "^4.54.0"
     }
 }
